@@ -7,6 +7,13 @@ A lightweight, console-based Snake game written in C++ for Windows. This project
 **Smart Grid Boundaries:** Exact edge collision tracking matching the visual matrix layout. Collision possible with the snake's body itself.
 **Paced Movement:** Directional delay balancing (faster horizontal tracking, steadier vertical steps).
 
+## How to move the snake
+W - Move Up
+S - Move Down
+A - Move Left
+D - Move Right
+P - Exit Game
+
 ## How to Compile and Run
 
 Make sure you have `g++` (GCC) installed on your Windows machine (like `w64devkit` or MinGW).
@@ -16,4 +23,5 @@ Make sure you have `g++` (GCC) installed on your Windows machine (like `w64devki
    ```bash
    g++ main.cpp -o snake.exe
 3. Start the game
-    start snake.exe
+   start snake.exe
+
