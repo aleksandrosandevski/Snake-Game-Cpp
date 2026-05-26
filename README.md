@@ -23,5 +23,6 @@ Make sure you have `g++` (GCC) installed on your Windows machine (like `w64devki
    ```bash
    g++ main.cpp -o snake.exe
 3. Start the game
+   ```bash
    start snake.exe
 
