@@ -1,0 +1,15 @@
+# Executables
+*.exe
+
+# Object files (Compiler output)
+*.o
+*.obj
+
+# Code::Blocks project files
+*.cbp
+*.layout
+*.depend
+
+# Folders
+bin/
+obj/
